@@ -7,7 +7,6 @@ author 'riversafe'
 description 'script peds scenarios'
 version '1.0.0'
 
--- Client Scripts
 client_scripts {
     'config.lua',
     'client.lua',
